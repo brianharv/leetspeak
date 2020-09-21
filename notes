@@ -1,0 +1,13 @@
+#   check_sentence = string.split(" ")
+#    check_sentence.each do |word|
+# #    if word[0] == 's' || word[0] == 'S'
+# # #       return check_sentence.gsub!(\[s]/i, 'z')  
+# # #   return check_sentence.join(" ") 
+# # # end  
+
+# # # # (/\w+z, "s")
+
+
+# # # /\b[z]/, 's'
+
+#  string.map { |n| n == "e" ? n : "3"}
